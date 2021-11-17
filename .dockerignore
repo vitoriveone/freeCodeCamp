@@ -1,6 +1,7 @@
 client/.cache
 client/public
 .env
+.cfd
 .git
 .gitignore
 .dockerignore
